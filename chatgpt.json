@@ -1,0 +1,15 @@
+{
+  "name": "chatgpt",
+  "desc": "free chat gpt, do not use this too often, us actual chat gpt when you can, please if you can donate to the site",
+  "url": "https://www.gpt-ua.click/",
+  "encodedUrl": "no",
+  "icon": "https://digitalscholar.in/wp-content/uploads/2023/03/chatgpt-logo.png",
+  "author": "EnderGhost",
+  "version": "v1.0.0",
+  "finderTerms": [
+    "chat",
+    "gpt",
+    "chatgpt"
+  ],
+  "permissions": []
+}
