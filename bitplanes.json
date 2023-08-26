@@ -5,5 +5,11 @@
   "encodedUrl": "no",
   "icon": "https://redstone-nw.netlify.app/assets/icon.png",
   "author": "EnderGhost",
+   "version": "v1.0.0",
+  "finderTerms": [
+    "bitplanes",
+    "bit",
+    "planes"
+  ],
   "permissions": []
 }
