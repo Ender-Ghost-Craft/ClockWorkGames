@@ -1,0 +1,15 @@
+{
+  "name": "Interstellar",
+  "desc": "Interstellar is a proxy that should work on most blockers, I have securly and that is the only one I have tested",
+  "url": "https://interstellar.hop.sh/web",
+  "encodedUrl": "no",
+  "icon": "https://avatars.githubusercontent.com/u/103917385?s=200&v=4",
+  "author": "EnderGhost",
+  "version": "v1.0.0",
+  "finderTerms": [
+    "proxy",
+    "Interstellar",
+    "nebula"
+  ],
+  "permissions": []
+}
