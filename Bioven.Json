@@ -1,0 +1,15 @@
+{
+  "name": "Bioven",
+  "desc": "Bioven is a game site with lots of cool games.",
+  "url": "https://basketballrandom.github.io/",
+  "encodedUrl": "no",
+  "icon": "https://raw.githubusercontent.com/basketballrandom/basketballrandom.github.io/main/assets/img/favicon.png",
+  "author": "EnderGhost",
+  "version": "v1.0.0",
+  "finderTerms": [
+    "coolmath",
+    "games",
+    "coolmathgames"
+  ],
+  "permissions": []
+}
