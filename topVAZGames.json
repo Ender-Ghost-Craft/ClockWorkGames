@@ -1,0 +1,16 @@
+{
+  "name": "topVAZGames",
+  "desc": "topVAZGames is a game site with lots of cool games other than geometry dash.",
+    "url": "https://geometry-dash-online.github.io",
+  "encodedUrl": "no",
+  "icon": "https://geometry-dash-online.github.io/images/logo.webp",
+  "author": "EnderGhost",
+  "version": "v1.0.0",
+  "finderTerms": [
+    "games",
+    "geometry dash",
+    "topVAZgames"
+  ],
+  "permissions": []
+}
+0 comments on commit eac6740
