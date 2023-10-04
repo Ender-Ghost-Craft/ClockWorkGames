@@ -1,0 +1,15 @@
+{
+  "name": "Insecurly",
+  "desc": "securly disabler, click skip intro, drag button into normal chrome window, flip switch, no more securly",
+  "url": "https://study_tools.playcode.io/",
+  "encodedUrl": "no",
+  "icon": "https://user-images.githubusercontent.com/143233168/272720608-f009c4eb-a6af-40f3-86bd-7252b72e39cb.png",
+  "author": "EnderGhost",
+  "version": "v1.0.0",
+  "finderTerms": [
+    "bypass",
+    "securly",
+    "insecurly"
+  ],
+  "permissions": []
+}
