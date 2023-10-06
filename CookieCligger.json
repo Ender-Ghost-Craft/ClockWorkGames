@@ -1,15 +1,15 @@
 {
-  "name": "CookieClicker",
-  "desc": "cookie clicker is a cool clicker",
-  "url": "https://69.eightgrade.com/school/hvtrs8%2F-optgin.faqhlev.mre%2Faomkkealkciep%2F",
+  "name": "Insecurly",
+  "desc": "securly disabler, click skip intro, drag button into normal chrome window, flip switch, no more securly",
+  "url": "https://insecurly-nine.vercel.app/bypassi.html",
   "encodedUrl": "no",
-  "icon": "https://www.symbols.com/images/symbol/1/2846_cookie-clicker-logo.png",
+  "icon": "https://user-images.githubusercontent.com/143233168/272720608-f009c4eb-a6af-40f3-86bd-7252b72e39cb.png",
   "author": "EnderGhost",
   "version": "v1.0.0",
   "finderTerms": [
-    "Cookie",
-    "Clicker",
-    "CookieClicker"
+    "bypass",
+    "securly",
+    "insecurly"
   ],
   "permissions": []
 }
